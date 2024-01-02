@@ -60,5 +60,5 @@ In this report we will invistigate **European Football Database** that includes 
 
 ##### Remember that:
 1. number of wins are local to the teams' national competetion.
-2. mathes with draw results has been omitted.
+2. matches with draw results has been omitted.
 3. players and teams attributes are scraped from **FIFA Game** and may not apply to real world.
